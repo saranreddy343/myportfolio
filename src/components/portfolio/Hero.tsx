@@ -42,7 +42,9 @@ const Hero = () => {
             <motion.h1 {...fadeUp(0.1)} className="text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.05]">
               Hi, I'm <span className="text-gradient">Saran Kumar</span>
               <br />
-              <Typewriter words={ROLES} className="text-gradient" />
+              <span className="block min-h-[1.1em]">
+                <Typewriter words={ROLES} className="text-gradient" />
+              </span>
             </motion.h1>
             <motion.p {...fadeUp(0.2)} className="text-lg md:text-xl text-muted-foreground font-medium">
               React.js Specialist · Building Scalable & High-Performance Web Applications
