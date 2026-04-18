@@ -3,7 +3,7 @@ import { ArrowRight, Download, Github, Linkedin, Mail, Sparkles } from "lucide-r
 import { Button } from "@/components/ui/button";
 import profile from "@/assets/profile-second.png";
 import resume from "@/assets/P_SARAN_KUMAR_REDDY_Resume.pdf";
-import Typewriter from "./TypeWriter";
+import Typewriter from "./Typewriter";
 
 const ROLES = [
   "Frontend Engineer.",
