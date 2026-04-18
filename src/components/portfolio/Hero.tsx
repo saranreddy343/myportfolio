@@ -42,7 +42,7 @@ const Hero = () => {
             <motion.h1 {...fadeUp(0.1)} className="text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.05]">
               Hi, I'm <span className="text-gradient">Saran Kumar</span>
               <br />
-              <span className="block min-h-[1.1em]">
+              <span className="block min-h-[2.2em] md:min-h-[1.2em]">
                 <Typewriter words={ROLES} className="text-gradient" />
               </span>
             </motion.h1>
