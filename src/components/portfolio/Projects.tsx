@@ -111,9 +111,9 @@ const Projects = () => {
                         <h3 className="font-display text-xl md:text-2xl font-bold leading-tight">{p.name}</h3>
                       </div>
                     </div>
-                    <button className="grid place-items-center w-10 h-10 rounded-full bg-muted group-hover:bg-gradient-primary group-hover:rotate-45 transition-all duration-500 shrink-0">
+                    {/* <button className="grid place-items-center w-10 h-10 rounded-full bg-muted group-hover:bg-gradient-primary group-hover:rotate-45 transition-all duration-500 shrink-0">
                       <ArrowUpRight size={18} className="group-hover:text-primary-foreground" />
-                    </button>
+                    </button> */}
                   </div>
 
                   <p className="text-xs font-medium text-muted-foreground mb-4">{p.period}</p>
