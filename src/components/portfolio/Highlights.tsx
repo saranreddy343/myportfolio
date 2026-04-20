@@ -5,7 +5,7 @@ import SkillsMarquee from "./SkillsMarquee";
 
 const stats = [
   { icon: Award, value: "4.5+", label: "Years Experience" },
-  { icon: Code2, value: "250+", label: "Screens Built" },
+  { icon: Code2, value: "8+", label: "projects" },
   { icon: Building2, value: "100+", label: "Organizations Supported" },
   { icon: Zap, value: "40%", label: "Performance Boost" },
 ];
