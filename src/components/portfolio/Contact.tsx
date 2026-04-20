@@ -12,7 +12,7 @@ const LINKEDIN_HANDLE = "Linkedin";
 const LINKEDIN_URL = "https://www.linkedin.com/in/saran-kumar-reddy-p-5185681ab/";
 const GITHUB_HANDLE = "Github";
 const GITHUB_URL = "https://github.com/saranreddy343";
-const CALENDLY_URL = "https://calendly.com/"; // update with your real link
+const CALENDLY_URL = "https://calendly.com/saranreddy343/30min"; // update with your real link
 
 type Action = {
   label: string;
